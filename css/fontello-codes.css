@@ -1,0 +1,18 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-mail:before { content: '\e801'; } /* '' */
+.icon-award:before { content: '\e802'; } /* '' */
+.icon-fire:before { content: '\e803'; } /* '' */
+.icon-folder-open:before { content: '\e804'; } /* '' */
+.icon-trophy:before { content: '\e805'; } /* '' */
+.icon-rocket:before { content: '\e806'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-github:before { content: '\f113'; } /* '' */
+.icon-gamepad:before { content: '\f11b'; } /* '' */
+.icon-youtube:before { content: '\f167'; } /* '' */
+.icon-graduation-cap:before { content: '\f19d'; } /* '' */
+.icon-heartbeat:before { content: '\f21e'; } /* '' */
+.icon-gplus-1:before { content: '\f30f'; } /* '' */
